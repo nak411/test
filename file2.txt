@@ -2,3 +2,5 @@ text for file 2
 modifying file 2 for tracking
 
 modifying again to check tracking
+
+re modifying after ignoring and merging
